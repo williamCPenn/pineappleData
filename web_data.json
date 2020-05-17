@@ -1,0 +1,190 @@
+[
+  {
+    "Website": "https://www.amazon.com/grocery",
+    "Category": "Grocery"
+  },
+  {
+    "Website": "https://grocery.walmart.com",
+    "Category": "Grocery"
+  },
+  {
+    "Website": "https://www.instacart.com/",
+    "Category": "Grocery"
+  },
+  {
+    "Website": "https://www.freshdirect.com",
+    "Category": "Grocery"
+  },
+  {
+    "Website": "https://www.shipt.com/",
+    "Category": "Grocery"
+  },
+  {
+    "Website": "https://www.safeway.com/",
+    "Category": "Grocery"
+  },
+  {
+    "Website": "https://www.amazon.com/alm/storefront/ref=grocery_amazonfresh?almBrandId=QW1hem9uIEZyZXNo",
+    "Category": "Grocery"
+  },
+  {
+    "Website": "https://www.amazon.com/alm/storefront/ref=grocery_wholefoods?almBrandId=VUZHIFdob2xlIEZvb2Rz",
+    "Category": "Grocery"
+  },
+  {
+    "Website": "https://www.hungryroot.com",
+    "Category": "Grocery"
+  },
+  {
+    "Website": "https://www.thrivemarket.com",
+    "Category": "Grocery"
+  },
+  {
+    "Website": "https://www.peapod.com",
+    "Category": "Grocery"
+  },
+  {
+    "Website": "https://www.boxed.com",
+    "Category": "Grocery"
+  },
+  {
+    "Website": "https://www.target.com",
+    "Category": "Grocery"
+  },
+  {
+    "Website": "https://www.gopuff.com",
+    "Category": "Grocery"
+  },
+  {
+    "Website": "https://www.harristeeter.com/",
+    "Category": "Grocery"
+  },
+  {
+    "Website": "https://www.doordash.com/",
+    "Category": "Food"
+  },
+  {
+    "Website": "https://www.delivery.com/",
+    "Category": "Food"
+  },
+  {
+    "Website": "https://www.ubereats.com/",
+    "Category": "Food"
+  },
+  {
+    "Website": "https://www.grubhub.com/",
+    "Category": "Food"
+  },
+  {
+    "Website": "https://www.trycaviar.com/",
+    "Category": "Food"
+  },
+  {
+    "Website": "https://postmates.com/",
+    "Category": "Food"
+  },
+  {
+    "Website": "https://www.seamless.com",
+    "Category": "Food"
+  },
+  {
+    "Website": "https://favordelivery.com/",
+    "Category": "Food"
+  },
+  {
+    "Website": "https://eatstreet.com/",
+    "Category": "Food"
+  },
+  {
+    "Website": "https://www.expedia.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.hotwire.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.caesars.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.kayak.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.travelocity.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.orbitz.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.trivago.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.momondo.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.skiplagged.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.united.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.delta.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.aa.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.marriott.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.ihg.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.hyatt.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.hilton.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.fourseasons.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.spirit.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.flyfrontier.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.allegiantair.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.bookings.com",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.mycwt.com/",
+    "Category": "Travel"
+  },
+  {
+    "Website": "https://www.southwest.com",
+    "Category": "Travel"
+  }
+]
